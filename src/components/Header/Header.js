@@ -1,5 +1,5 @@
 import React from 'react';
-import {AppBar, Toolbar, Menu, Icon, IconButton} from '@material-ui/core';
+import {AppBar, Toolbar, IconButton} from '@material-ui/core';
 import MenuIcon from '@material-ui/icons/Menu';
 import {SideDrawer} from "../SideDrawer/SideDrawer";
 
